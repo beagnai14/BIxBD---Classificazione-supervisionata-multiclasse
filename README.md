@@ -43,10 +43,7 @@ WineQuality (label): Variabile target: punteggio di qualità da 3 (pessima) a 8 
 6: qualità_buona    
 7: qualità_molto_buona    
 8: qualità_eccellente     
-Acidity_Sulfur_Interaction: Interazione derivata tra acidità fissa e solfati     
-(numerico). 
-Synthetic_Noise_Flag: Indicatore che indica la presenza rumore nei dati (0 = 
-assente, 1 = presente). 
-Alcohol_Density_Ratio: Rapporto tra gradazione alcolica e densità (numerico). 
-Volatile_Enhanced: Indicatore basato sull'acidità volatile elevata (0 = normale, 1 = 
-elevata).
+Acidity_Sulfur_Interaction: Interazione derivata tra acidità fissa e solfati (numerico).     
+Synthetic_Noise_Flag: Indicatore che indica la presenza rumore nei dati (0 = assente, 1 = presente).      
+Alcohol_Density_Ratio: Rapporto tra gradazione alcolica e densità (numerico).     
+Volatile_Enhanced: Indicatore basato sull'acidità volatile elevata (0 = normale, 1 = elevata).
