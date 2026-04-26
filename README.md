@@ -25,9 +25,9 @@ corretta valutazione del modello, i dati di test non devono mai essere utilizzat
 fase di addestramento (training).
 
 ### Attributi 
-fixed_acidity: Acidità fissa del vino, principalmente acido tartarico (numerico). 
-volatile_acidity: Acidità volatile, principalmente acido acetico — livelli elevati 
-causano sapore di aceto (numerico). 
+fixed_acidity: Acidità fissa del vino, principalmente acido tartarico (numerico).   
+volatile_acidity: Acidità volatile, principalmente acido acetico — livelli elevati    
+causano sapore di aceto (numerico).    
 citric_acid: Contenuto di acido citrico, aggiunge freschezza e sapore (numerico). 
 residual_sugar: Zucchero residuo dopo la fermentazione in g/l (numerico). 
 chlorides: Contenuto di sale nel vino (numerico). 
