@@ -26,28 +26,24 @@ fase di addestramento (training).
 
 ### Attributi 
 fixed_acidity: Acidità fissa del vino, principalmente acido tartarico (numerico).   
-volatile_acidity: Acidità volatile, principalmente acido acetico — livelli elevati    
-causano sapore di aceto (numerico).    
-citric_acid: Contenuto di acido citrico, aggiunge freschezza e sapore (numerico). 
-residual_sugar: Zucchero residuo dopo la fermentazione in g/l (numerico). 
-chlorides: Contenuto di sale nel vino (numerico). 
-free_sulfur_dioxide: Forma libera di SO2, previene ossidazione e crescita 
-microbica (numerico). 
-total_sulfur_dioxide: Quantità totale di SO2 libera e legata (numerico). 
-density: Densità del vino, correlata al contenuto di alcol e zucchero (numerico). 
-pH: Misura dell'acidità o basicità su scala 0–14 (numerico). 
-sulphates: Additivo che contribuisce ai livelli di SO2, ha proprietà antimicrobiche e 
-antiossidanti (numerico). 
-alcohol: Percentuale di alcol in volume (numerico). 
-WineQuality (label): Variabile target: punteggio di qualità da 3 (pessima) a 8 
-(eccellente), assegnato da esperti. 
-3: qualità_molto_scarsa 
-4: qualità_scarsa 
-5: qualità_nella_media 
-6: qualità_buona 
-7: qualità_molto_buona 
-8: qualità_eccellente 
-Acidity_Sulfur_Interaction: Interazione derivata tra acidità fissa e solfati 
+volatile_acidity: Acidità volatile, principalmente acido acetico — livelli elevati causano sapore di aceto (numerico).    
+citric_acid: Contenuto di acido citrico, aggiunge freschezza e sapore (numerico).    
+residual_sugar: Zucchero residuo dopo la fermentazione in g/l (numerico).    
+chlorides: Contenuto di sale nel vino (numerico).    
+free_sulfur_dioxide: Forma libera di SO2, previene ossidazione e crescita microbica (numerico).    
+total_sulfur_dioxide: Quantità totale di SO2 libera e legata (numerico).     
+density: Densità del vino, correlata al contenuto di alcol e zucchero (numerico).    
+pH: Misura dell'acidità o basicità su scala 0–14 (numerico).   
+sulphates: Additivo che contribuisce ai livelli di SO2, ha proprietà antimicrobiche e antiossidanti (numerico).    
+alcohol: Percentuale di alcol in volume (numerico).     
+WineQuality (label): Variabile target: punteggio di qualità da 3 (pessima) a 8 (eccellente), assegnato da esperti.    
+3: qualità_molto_scarsa     
+4: qualità_scarsa     
+5: qualità_nella_media     
+6: qualità_buona    
+7: qualità_molto_buona    
+8: qualità_eccellente     
+Acidity_Sulfur_Interaction: Interazione derivata tra acidità fissa e solfati     
 (numerico). 
 Synthetic_Noise_Flag: Indicatore che indica la presenza rumore nei dati (0 = 
 assente, 1 = presente). 
